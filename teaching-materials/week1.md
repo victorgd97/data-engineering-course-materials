@@ -1,4 +1,6 @@
-# Broad topics for this module
+# Week 1 notes
+
+## Broad topics for this module
 
 - **Data wrangling** - parsing, filtering, combining, sorting, fixing, data types, working with text
 - **Data pipelines** - reading, processing, storing, automation, hosting
@@ -14,7 +16,7 @@
   - GitHub for collaboration
 - How to approach Python tasks and learn new libraries
 
-# Foundation knowledge
+## Foundation knowledge
 
 - Basic Python skills
   - Variables
@@ -29,12 +31,13 @@
   - importing modules
   - installing and using third party libraries
 
-# Overview of how the three modules fit together
+## Overview of how the three modules fit together
 
 Here are three simplified, functional overviews of how data flow might look, from source to screen, in a dataviz project:
-# ![](week1-modules.png)
 
-# Today
+![](img/week1-modules.png)
+
+## Today
 
 - Short poll
 - Git & GitHub
@@ -42,9 +45,9 @@ Here are three simplified, functional overviews of how data flow might look, fro
 - Data types & CSV
 - Reading CSV in Python
 
-# Git
+## Git
 
-# What is Git and why is it useful?
+### What is Git and why is it useful?
 
 - Distributed version control system
 - View history
@@ -57,7 +60,7 @@ Here are three simplified, functional overviews of how data flow might look, fro
   - Fast workflow for merging work together
 - Enables large-scale collaboration
 
-# What is GitHub?
+### What is GitHub?
 
 - Web service and servers for Git projects
 - The largest the open source hub
@@ -69,13 +72,13 @@ Here are three simplified, functional overviews of how data flow might look, fro
   - Wikis
   - Profiles
 
-# Git file tracking
+### Git file tracking
 
 This is an overview of how git tracks changes to your files. They start as unstaged changes, then you `git add` them to the staging area, and then you `git commit` everything in the staging area, which adds those changes to the repo and means they are now tracked.
 
-![](week1-gitchanges.png)
+![](img/week1-gitchanges.png)
 
-# Approaching new tasks in Python
+## Approaching new tasks in Python
 
 - Break the problem down into small chunks or steps
 - It can help to write out these steps in comments
@@ -83,7 +86,7 @@ This is an overview of how git tracks changes to your files. They start as unsta
   - Each step can also be thought of in that way
 - Experiment with interactive environments
 
-## Resources
+### Resources
 
 - Official documentation
   - API reference
@@ -93,9 +96,9 @@ This is an overview of how git tracks changes to your files. They start as unsta
 - Q&A websites (e.g. Stack Overflow)
 - Open source projects
 
-# Standard libraries vs third-party libraries
+## Standard libraries vs third-party libraries
 
-## Standard library
+### Standard library
 
 - Included with the language (no additional software required)
 - Will work everywhere
@@ -103,10 +106,9 @@ This is an overview of how git tracks changes to your files. They start as unsta
 - Documentation and support can be better
 - Lower level (not always a good thing)
 
-## Third-party library
+### Third-party library
 
 - Provide provide extra functionality
 - Sometimes they provide a higher level interface
 - Can be quicker in some situations
 - Can be more performant
-
