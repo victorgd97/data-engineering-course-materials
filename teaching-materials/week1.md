@@ -29,6 +29,11 @@
   - importing modules
   - installing and using third party libraries
 
+# Overview of how the three modules fit together
+
+Here are three simplified, functional overviews of how data flow might look, from source to screen, in a dataviz project:
+# ![](week1-modules.png)
+
 # Today
 
 - Short poll
@@ -63,6 +68,12 @@
   - Pull requests
   - Wikis
   - Profiles
+
+# Git file tracking
+
+This is an overview of how git tracks changes to your files. They start as unstaged changes, then you `git add` them to the staging area, and then you `git commit` everything in the staging area, which adds those changes to the repo and means they are now tracked.
+
+![](week1-gitchanges.png)
 
 # Approaching new tasks in Python
 
