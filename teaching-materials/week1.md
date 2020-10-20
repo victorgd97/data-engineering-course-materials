@@ -16,7 +16,7 @@
   - GitHub for collaboration
 - How to approach Python tasks and learn new libraries
 
-## Foundation knowledge
+## Foundational knowledge
 
 - Basic Python skills
   - Variables
